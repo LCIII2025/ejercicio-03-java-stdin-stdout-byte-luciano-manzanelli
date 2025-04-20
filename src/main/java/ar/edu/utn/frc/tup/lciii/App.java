@@ -12,12 +12,12 @@ public class App
     {
         Scanner scan = new Scanner(System.in);
         byte a = scan.nextByte();
-        // Complete this line
-        // Complete this line
+        byte b = scan.nextByte();
+        byte c = scan.nextByte();
 
         System.out.println(a);
-        // Complete this line
-        // Complete this line
+        System.out.println(b);
+        System.out.println(c);
 
     }
 }
